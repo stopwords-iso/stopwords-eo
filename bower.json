@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-eo",
+  "description": "The most comprehensive collection of stopwords for the esperanto language.",
+  "keywords": [
+    "esperanto",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-eo",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-eo.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
